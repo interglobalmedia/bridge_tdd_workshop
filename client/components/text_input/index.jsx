@@ -1,5 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 
-export default class TextInput extends Component {
-  render() {}
+const TextInput = (props) => {
+	return (
+		<div>
+			<input onChange={props.changed} value={props.value} type='text' placeholder='type text here' style={props.style}/>
+		</div>
+	)
 }
+export default TextInput;

@@ -1,0 +1,34 @@
+)]}
+{
+ "version": 3,
+ "sources": "/Users/mariacam/development/bridge_tdd_workshop/client/components/app/index.jsx",
+ "file": "/Users/mariacam/development/bridge_tdd_workshop/client/components/app/index.js",
+ "sourceRoot": "",
+ "names": [
+  "App",
+  "state",
+  "userInput",
+  "showValue",
+  "handleInputChange",
+  "e",
+  "setState",
+  "target",
+  "value",
+  "handleInputClick",
+  "inputValue",
+  "titleStyle",
+  "fontweight",
+  "style1",
+  "color",
+  "fontSize",
+  "style2",
+  "appStyle",
+  "margin",
+  "textAlign",
+  "fontFamily",
+  "paragraphStyle",
+  "inputStyle",
+  "length"
+ ],
+ "mappings": ";;;;;;;;AAAA;;;;AACA;;;;AACA;;;;;;;;;;;;IAEqBA,G;;;;;;;;;;;;;;oLACjBC,K,GAAQ;AACJC,uBAAW,EADP;AAEJC,uBAAW;AAFP,S,QAIRC,iB,GAAoB,UAACC,CAAD,EAAO;AACvB,kBAAKC,QAAL,CAAc;AACVJ,2BAAWG,EAAEE,MAAF,CAASC;AADV,aAAd;AAGH,S,QACDC,gB,GAAmB,UAACJ,CAAD,EAAO;AACtB,gBAAIK,aAAa,MAAKT,KAAL,CAAWC,SAA5B;AACA,kBAAKI,QAAL,CAAc;AACVH,2BAAWO,UADD;AAEVR,2BAAW;AAFD,aAAd;AAIH,S;;;;;iCACQ;AAAA;;AACL,gBAAMS,aAAa;AACfC,4BAAY;AADG,aAAnB;AAGA,gBAAMC,SAAS;AACXC,uBAAO,OADI;AAEXC,0BAAU;AAFC,aAAf;AAIA,gBAAMC,SAAS;AACXF,uBAAO,KADI;AAEXC,0BAAU;AAFC,aAAf;AAIA,gBAAME,WAAW;AACbC,wBAAQ,WADK;AAEbC,2BAAW,QAFE;AAGbC,4BAAY,wBAHC;AAIbL,0BAAU;AAJG,aAAjB;AAMA,gBAAMM,iBAAiB;AACnBP,uBAAO;AADY,aAAvB;AAGA,gBAAMQ,aAAa,KAAKrB,KAAL,CAAWC,SAAX,CAAqBqB,MAArB,GAA8B,EAA9B,GAAmCP,MAAnC,GAA4CH,MAA/D;AACA,mBACI;AAAA;AAAA,kBAAK,OAAOI,QAAZ;AACI;AAAA;AAAA,sBAAI,OAAON,UAAX;AAAA;AAAA,iBADJ;AAEI,sEAAW,OAAOW,UAAlB,EAA8B,SAAS,KAAKlB,iBAA5C,EAA+D,MAAK,MAApE,EAA2E,aAAY,gBAAvF,EAAwG,OAAO,KAAKH,KAAL,CAAWC,SAA1H,GAFJ;AAGI;AAAA;AAAA,sBAAG,OAAOmB,cAAV;AAA2B,yBAAKpB,KAAL,CAAWE;AAAtC,iBAHJ;AAII,kEAAQ,SAAS,iBAACE,CAAD;AAAA,+BAAO,OAAKI,gBAAL,CAAsBJ,CAAtB,CAAP;AAAA,qBAAjB,EAAkD,MAAK,UAAvD;AAJJ,aADJ;AAQH;;;;;;kBA/CgBL,G"
+}

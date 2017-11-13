@@ -1,0 +1,19 @@
+)]}
+{
+ "version": 3,
+ "sources": "/Users/mariacam/development/bridge_tdd_workshop/client/components/button/index.jsx",
+ "file": "/Users/mariacam/development/bridge_tdd_workshop/client/components/button/index.js",
+ "sourceRoot": "",
+ "names": [
+  "Button",
+  "props",
+  "buttonStyle",
+  "background",
+  "color",
+  "fontFamily",
+  "fontSize",
+  "clicked",
+  "text"
+ ],
+ "mappings": ";;;;;;AAAA;;;;;;AAEA,IAAMA,SAAS,SAATA,MAAS,CAACC,KAAD,EAAW;AACzB,KAAMC,cAAc;AACnBC,cAAY,MADO;AAEnBC,SAAO,eAFY;AAGnBC,cAAY,wBAHO;AAInBC,YAAU;AAJS,EAApB;AAMA,QACC;AAAA;AAAA;AACC;AAAA;AAAA,KAAQ,SAASL,MAAMM,OAAvB,EAAgC,OAAOL,WAAvC;AAAqDD,SAAMO;AAA3D;AADD,EADD;AAKA,CAZD;;kBAceR,M"
+}

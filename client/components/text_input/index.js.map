@@ -1,0 +1,15 @@
+)]}
+{
+ "version": 3,
+ "sources": "/Users/mariacam/development/bridge_tdd_workshop/client/components/text_input/index.jsx",
+ "file": "/Users/mariacam/development/bridge_tdd_workshop/client/components/text_input/index.js",
+ "sourceRoot": "",
+ "names": [
+  "TextInput",
+  "props",
+  "changed",
+  "value",
+  "style"
+ ],
+ "mappings": ";;;;;;AAAA;;;;;;AAEA,IAAMA,YAAY,SAAZA,SAAY,CAACC,KAAD,EAAW;AAC5B,QACC;AAAA;AAAA;AACC,2CAAO,UAAUA,MAAMC,OAAvB,EAAgC,OAAOD,MAAME,KAA7C,EAAoD,MAAK,MAAzD,EAAgE,aAAY,gBAA5E,EAA6F,OAAOF,MAAMG,KAA1G;AADD,EADD;AAKA,CAND;kBAOeJ,S"
+}
